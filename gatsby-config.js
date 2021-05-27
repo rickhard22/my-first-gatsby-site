@@ -3,7 +3,8 @@ module.exports = {
     title: "My First Gatsby Site",
   },
   plugins: [
-    "gatsby-plugin-gatsby-cloud",
-    `gatsby-plugin-styled-components`
+    `gatsby-plugin-gatsby-cloud`,
+    `gatsby-plugin-styled-components`,
+    `gatsby-plugin-typescript`
   ],
 };
